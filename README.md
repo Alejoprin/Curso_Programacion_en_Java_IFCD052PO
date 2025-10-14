@@ -8,6 +8,7 @@
 
 - **Ejercicios_Hoja1**: Ejercicios de la primera guía nivel básico
 - **JAVA_01_18**: Ejercicios de la segunda guía nivel básico-intermedio
+- **Hoja3**: Ejercicios de la tercera guía de Arrays y Matrices nivel básico-intermedio
 
 ### Tareas más complejas
 
