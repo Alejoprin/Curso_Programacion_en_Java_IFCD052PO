@@ -39,6 +39,7 @@ public class NumeroEncontrado {
                 System.out.print("¿Desea seguir buscando?(s/n) ");
                 seguirBuscando = entrada.nextLine();
             }while(!seguirBuscando.equalsIgnoreCase("s") && !seguirBuscando.equalsIgnoreCase("n"));
+
         } while (seguirBuscando.equalsIgnoreCase("s"));
         entrada.close();
     }
